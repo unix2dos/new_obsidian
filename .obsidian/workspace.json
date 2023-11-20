@@ -23,8 +23,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "584741b98e325ee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "从这开始.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "60-Canvas/Home_middle.canvas"
+                "file": "从这开始.md"
               }
             }
           },
@@ -154,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "60-Canvas/Home_middle.canvas",
+                "file": "从这开始.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "byModifiedTime",
@@ -171,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "60-Canvas/Home_middle.canvas",
+                "file": "从这开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +228,6 @@
     "hiddenItems": {
       "canvas:新建白板": false,
       "obsidian-weread-plugin:Weread": false,
-      "float-search:Search Obsidian In Modal": false,
       "webpage-html-export:Export Vault to HTML": false,
       "surfing:surfing-bookmark-manager": false,
       "omnisearch:Omnisearch": false,
@@ -232,42 +245,43 @@
       "markdown-importer:打开 Markdown 格式转换器": false,
       "audio-recorder:开始/结束录音": false,
       "workspaces:管理工作区布局": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "float-search:Search Obsidian In Modal": false
     }
   },
-  "active": "944517de283150b7",
+  "active": "584741b98e325ee2",
   "lastOpenFiles": [
-    "README.md",
     "60-Canvas/Home_middle.canvas",
-    "77-Example/分栏效果示例.md",
-    "77-Example/77-Example.md",
-    "77-Example/ob提示框(callout)样式展示.md",
-    "88-Template/常用工具.md",
-    "88-Template/home.md",
-    "77-Example/◾ Echarts/echarts-笔记动态显示-分布.md",
-    "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md",
-    "88-Template/button.md",
-    "60-Canvas/Home/button_canvas.md",
-    "00-Tips/插件介绍/Any block/2. 使用示例 - 代码块引用块选择器.md",
-    "77-Example/◾ Cssclass声明样式举例/列表转表格测试.md",
-    "20230317095540.md",
-    "20230317093827.md",
-    "未命名.canvas",
     "00-Tips/00-Tips.md",
-    "20230317092434.md",
-    "00-Tips/插件介绍/Any block/3. 使用示例 - 全局选择器.md",
-    "使用.md",
-    "77-Example/◾ Dataview相关实例/微信读书清单.md",
-    "10-Help/【md】Blue topaz--style setting 插件设置内容 简介.md",
-    "00-Tips/示例库移植说明/如何把示例库移植到你现有的库中？.md",
-    "88-Template/88-Template.md",
-    "00-Tips/插件介绍/Any block/9. 高级功能.md",
-    "00-Tips/🥑Blue Topaz Themes Tips.md",
-    "77-Example/◾ Dataview相关实例/【dv】tasks任务以时间线视图汇总.md",
-    "77-Example/◾ Dataview相关实例/【dv】tasks任务以日历视图汇总.md",
+    "00-Tips/插件介绍/插件介绍.md",
+    "00-Tips/Obsidian 一键开启悬浮.md",
+    "88-Template/彩色时钟.md",
+    "20231118210531.md",
+    "50-Inbox/Website/文本处理-textce.md",
+    "50-Inbox/Website/Cubox.md",
+    "88-Template/常用工具.md",
+    "20-Diary/2023-11-18.md",
+    "50-Inbox/Website/vika.md",
+    "50-Inbox/Website/carbon 代码高亮分享.md",
+    "Changlog.md",
+    "60-Canvas/canvas白板介绍_middle.canvas",
+    "从这开始.md",
+    "00-Tips/示例库移植说明/示例库移植说明.md",
+    "98-字体--已安装过的文件夹可以直接删/98-字体--已安装过的文件夹可以直接删.md",
+    "50-Inbox/Study/20221231235546.md",
+    "50-Inbox/Website/正则表达式验证.md",
+    "50-Inbox/Website/书签.md",
+    "50-Inbox/Website/历史上的今天.md",
+    "50-Inbox/Website/Website.md",
+    "50-Inbox/50-Inbox.md",
+    "10-Help/获取插件列表.md",
+    "10-Help/css基础教学.md",
+    "00-Tips/如何快速生成MOC(文件夹的文件目录列表)？.md",
+    "00-Tips/配色分享monokai pro 配色.md",
+    "10-Help/css基础教学.pdf",
+    "未命名.canvas",
     "60-Canvas/代码块相关样式_middle.canvas",
     "60-Canvas/Formatting_Cheatsheet.canvas",
-    "60-Canvas/canvas白板介绍_middle.canvas",
     "88-Template/script/askChat.js",
     "88-Template/script/askChat(2).js",
     "88-Template/script/copyChat.js",

@@ -336,3 +336,4 @@
 .mobile/app.json
 .mobile/.diary-stats
 .obsidian/workspace.json
+.DS_Store
